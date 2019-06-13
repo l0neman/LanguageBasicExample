@@ -1,11 +1,9 @@
 #include <stdio.h>
-
-#include "assert/assert_test.h"
+#include "clib/main_clib.h"
 
 int main() {
     printf("Hello, World!\n");
 
-    test_assert_lib();
-
+    main_clib();
     return 0;
 }
