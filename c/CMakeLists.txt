@@ -11,6 +11,10 @@ add_executable(
         clib/assert/assert_example.h
         clib/ctype/ctype_example.c
         clib/ctype/ctype_example.h
+        clib/stdio/stdio_example.c
+        clib/stdio/stdio_example.h
+        clib/errno/errno_example.c
+        clib/errno/errno_example.h
 )
 
 project(c C)

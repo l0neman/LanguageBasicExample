@@ -7,6 +7,7 @@
 #include <stdio.h>
 
 void test_ctype_header() {
+  // todo_补充其他几个函数用法，暂时用不到，先不补了。
 
   // 判断是否为十进制数字字符。
   printf("isdigit:\n");

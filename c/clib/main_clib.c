@@ -4,7 +4,9 @@
 
 #include "main_clib.h"
 #include "ctype/ctype_example.h"
+#include "stdio/stdio_example.h"
+#include "errno/errno_example.h"
 
 void main_clib() {
-  test_ctype_header();
+  test_errno_header();
 }
