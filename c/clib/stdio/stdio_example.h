@@ -5,6 +5,6 @@
 #ifndef C_STDIO_EXAMPLE_H
 #define C_STDIO_EXAMPLE_H
 
-int test_example_header();
+int test_stdio_header();
 
 #endif //C_STDIO_EXAMPLE_H
