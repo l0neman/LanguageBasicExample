@@ -5,6 +5,6 @@
 #ifndef C_ASSERT_TEST_H
 #define C_ASSERT_TEST_H
 
-void test_assert_lib();
+int test_assert_lib();
 
 #endif //C_ASSERT_TEST_H
