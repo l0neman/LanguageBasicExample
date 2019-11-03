@@ -11,6 +11,12 @@ add_executable(
         clib/assert/assert_example.h
         clib/ctype/ctype_example.c
         clib/ctype/ctype_example.h
+		general/main_general.c
+		general/main_general.h
+		general/print/print_example.c
+		general/print/print_example.h
+		general/variable/variable_example.c
+		general/variable/variable_example.h
 )
 
 project(c C)

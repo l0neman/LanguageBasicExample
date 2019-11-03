@@ -1,5 +1,5 @@
 //
-// Created by ThinkPad on 2019/6/9.
+// Created by l0nema on 2019/6/9.
 //
 
 #ifndef C_ASSERT_TEST_H
